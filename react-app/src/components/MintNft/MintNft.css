@@ -1,0 +1,94 @@
+.game_container {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  .home_docs {
+    width: 120px;
+    border-radius: 25px;
+    background: linear-gradient(180deg, #FAD55E 0%, #F7701F 100%);
+    padding: 10px;
+    text-align: center;
+    color: white;
+    margin-left: auto;
+    margin: auto 40px auto auto;
+  }
+  .home_header{
+    height: 80px;
+  opacity: 0.5;
+  background-color: #000000;
+  }
+  .home_header_content{
+    position: absolute;
+    top: -14px;
+    display: flex;
+    width: 100%;
+    margin: auto;
+  }
+  .home_header_up_arrow{
+    height: 22px;
+    margin-left: 4px;
+  }
+
+
+  .connect_wallet_blockchain {
+    color: #cdcfdb;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 28px;
+    text-align: center;
+    width: 600px;
+    margin: auto;
+    margin-top: -110px !important;
+  }
+  
+  .member_content {
+    /* padding-top: 60px; */
+    margin-top: -90px;
+  }
+  .member_chimp_image_div {
+    text-align: center;
+  }
+  .membership_nft {
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 24px;
+    text-align: center;
+    margin-top: -75px;
+  }
+  .member_chimp_image {
+    width: 600px;
+  }
+  .view_members {
+    opacity: 0.48;
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 17px;
+    text-align: center;
+  }
+  .mint_button {
+    border-radius: 25px;
+  background: linear-gradient(180deg, #F1D487 0%, #B66F46 100%);
+    width: 180px;
+    padding: 10px;
+    text-align: center;
+    margin: auto 20px auto auto;
+    color: white;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 19px;
+    cursor: pointer;
+    margin: auto;
+
+}
+  

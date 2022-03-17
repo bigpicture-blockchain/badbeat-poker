@@ -1,0 +1,49 @@
+.home_header{
+    height: 80px;
+  opacity: 0.5;
+  background-color: #000000;
+  }
+  .home_header_content{
+    position: absolute;
+    top: -14px;
+    display: flex;
+    width: 100%;
+    margin: auto;
+  }
+  .header_wallet {
+    height: 40px;
+    width: 180px;
+    border-radius: 25px;
+    background-color: #893B07;
+    color: #FFFFFF;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 17px;
+  text-align: center;
+  margin: auto 20px auto auto;
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    border:2px solid #FAD55E;
+    opacity: 0.8;
+  }
+  .header_wallet_icon{
+    padding-right: 7px;
+    font-size: 25px;
+  }
+  .header_member_link {
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19px;
+    text-align: center;
+    margin: auto 20px auto auto;
+    cursor: pointer;
+  }
+
+  .header_margin_member{
+    margin: auto 20px auto 20px !important;
+  }
