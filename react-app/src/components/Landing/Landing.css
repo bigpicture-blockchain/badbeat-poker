@@ -1,0 +1,183 @@
+.home_container{
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.home_logo{
+    padding: 40px;
+    width: 250px;
+}
+.home_coming_soon{
+    color: #F2F3F6;
+    font-family: ethnocentric;
+    font-size: 64px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 58px;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 24px;
+  }
+  .home_our_website {
+    width: 620px;
+    color: #CDCFDB;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 28px;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 24px;
+  }
+  .home_content{
+    padding-top: 85px;
+      text-align: center;
+  }
+  .home_input_div{
+    width: 620px;
+    margin: auto;
+    background-color: rgba(0,0,0,0.1);
+    height: 50px;
+  }
+  .home_input_div_pad{
+    padding-left: 24px;
+  }
+  .home_input{
+    box-sizing: border-box;
+    border: 1.5px solid #FAD55E;
+    border-radius: 25px;
+    background-color: rgba(0,0,0,0.5);
+    width: 48%;
+    height: 50px;
+    color: white;
+    float: left;
+    margin: auto;
+    outline: none;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 17px;
+    padding-left: 20px;
+  }
+  .home_notify_me {
+    height: 40px;
+    border-radius: 25px;
+    width: 110px;
+    background-color:  #FAD55E;
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 17px;
+    float: right;
+    margin: 3px;
+  }
+  .home_notify_me_div{
+    display: flex;
+    padding: 12px;
+    justify-content: center;
+  }
+  .home_discord_twitter{
+    width: 620px;
+    margin: auto;
+    padding-top: 24px;
+    width: 500px;
+  }
+  .home_discord{
+    border-radius: 25px;
+    background-color: #444444;
+    width: 220px;
+    cursor: pointer;
+        
+  }
+  .home_twitter{
+    position: absolute;
+    margin-top: -45px;
+    margin-left: 270px;
+    border-radius: 25px;
+    background-color: #444444;
+    width: 220px;
+    cursor: pointer;
+  }
+  .home_discord_content {
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 0;
+    padding: 12px;
+    line-height: 17px;
+    width: 220px;
+    text-align: center;
+  }
+  .home_discord_icon{
+    height: 20px;
+    padding-left: 5px;
+  }
+  .home_twitter_icon{
+    font-size: 20px;
+    padding-left: 5px;
+  }
+
+  .home_input_box {
+    box-sizing: border-box;
+    border: 1.5px solid #FAD55E;
+    border-radius: 25px;
+    background-color: rgba(0,0,0,0.5);
+  }
+  .register_button {
+    margin: auto;
+    width: 620px;
+    border-radius: 25px;
+    background: linear-gradient(180deg, #FAD55E 0%, #F7701F 100%);
+    color: #FFFFFF;
+  font-family: "Open Sans";
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 17px;
+  text-align: center;
+  padding: 18px;
+  margin: 30px auto;
+  cursor: pointer;
+}
+  .home_input_ml{
+    margin-left: 24px;
+  }
+  .home_border_bottom{
+    border: 1px solid #979797;
+    width: 620px;
+    margin: auto;
+  }
+  .home_fire_logo{
+    margin-bottom: 30px;
+  }
+  .home_docs {
+    width: 120px;
+    border-radius: 25px;
+    background: linear-gradient(180deg, #FAD55E 0%, #F7701F 100%);
+    padding: 10px;
+    text-align: center;
+    color: white;
+    margin-left: auto;
+    margin: auto 40px auto auto;
+  }
+  .home_header{
+    height: 80px;
+  opacity: 0.5;
+  background-color: #000000;
+  }
+  .home_header_content{
+    position: absolute;
+    top: -14px;
+    display: flex;
+    width: 100%;
+    margin: auto;
+  }
+  .home_header_up_arrow{
+    height: 22px;
+    margin-left: 4px;
+  }

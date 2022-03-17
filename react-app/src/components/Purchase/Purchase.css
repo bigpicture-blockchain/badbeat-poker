@@ -1,0 +1,53 @@
+.purchase_modal {
+    margin-top: 12%;
+  }
+.purchase_modal_body {
+    text-align: center;
+    padding: 50px !important;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #2E2E2E;
+    box-shadow: 0 2px 10px 5px rgba(0,0,0,0.17);
+    width: 526px;
+  }
+  .purchase_logo{
+    height: 75px;
+  }
+  .purchasd_welcome_back {
+    color: #FFFFFF;
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 27px;
+    text-align: center;
+  }
+  .purchase_content{
+    opacity: 0.7;
+    color: #FFFFFF;;
+    font-family: "Open Sans";
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 26px;
+    text-align: center;
+    width: 400px;
+  }
+  .modal_button{
+    height: 50px;
+    width: 190px;
+    border-radius: 29px;
+    background: linear-gradient(180deg, #FAD55E 0%, #F7701F 100%);
+    margin: auto;
+    cursor: pointer;
+    margin-top: 35px !important;
+  }
+  .modal_button_content{
+        color: #FFFFFF;
+        font-family: "Open Sans";
+        font-size: 16px;
+        font-weight: bold;
+        letter-spacing: 0;
+        line-height: 19px;
+        text-align: center;
+        padding: 15px;
+  }

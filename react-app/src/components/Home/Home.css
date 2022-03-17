@@ -1,0 +1,96 @@
+.game_container {
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .header {
+    opacity: 0.5;
+    background-color: #000000;
+    height: 100px;
+  }
+  .headrer_content {
+    position: absolute;
+    top: 0;
+    display: flex;
+    width: 100%;
+  }
+  .header_title {
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 28px;
+    font-weight: 800;
+    letter-spacing: 0.9px;
+    line-height: 40px;
+    padding: 30px 40px;
+  }
+  .header_right_content {
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 19px;
+    text-align: center;
+    margin: auto;
+    margin-right: 40px;
+    display: flex;
+  }
+  .docs_style {
+    margin: auto;
+    padding-right: 50px;
+  }
+  .connect_wallet_button {
+    border-radius: 25px;
+    background: linear-gradient(180deg, #FAD55E 0%, #F7701F 100%);
+    width: 180px;
+    padding: 10px;
+    text-align: center;
+    margin: auto 20px auto auto;
+    color: white;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 19px;
+    cursor: pointer;
+  }
+  .connect_wallet_content {
+    padding-top: 200px;
+    text-align: center;
+  }
+  .new_era {
+    color: #ffffff;
+    font-family: ethnocentric;
+    font-size: 70px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 77px;
+    text-align: center;
+    margin: auto;
+  }
+  .connect_wallet_blockchain {
+    color: #cdcfdb;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 28px;
+    text-align: center;
+    width: 600px;
+    margin: auto;
+  }
+ 
+  .home_docs {
+    width: 120px;
+    border-radius: 25px;
+    background: linear-gradient(180deg, #FAD55E 0%, #F7701F 100%);
+    padding: 10px;
+    text-align: center;
+    color: white;
+    margin-left: auto;
+    margin: auto 40px auto auto;
+  }
+  .home_header_up_arrow{
+    height: 22px;
+    margin-left: 4px;
+  }
