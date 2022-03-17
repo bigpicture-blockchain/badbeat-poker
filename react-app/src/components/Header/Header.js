@@ -10,7 +10,7 @@ function Header(props) {
   }
 
   const openDocs = () =>{
-    window.open("https://pokerdocs.badbeat.com/untitled/");
+    window.open("https://pokerdocs.badbeat.com/");
   }
   return (
       <div>
